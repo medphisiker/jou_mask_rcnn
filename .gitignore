@@ -1,0 +1,11 @@
+*.pyc
+*.json
+*.zip
+*.mp4
+*.pth
+last_checkpoint
+*tfevents*
+
+# tmp dirs
+output
+datasets
